@@ -10,6 +10,11 @@ We have an example of fixed-point implementation of Lanczos based tridiagonaliza
 It is a part of the published work:
 Pradhan, Tapan, Bibek Kabi, Ramanarayan Mohanty, and Aurobinda Routray. "Development of numerical linear algebra algorithms in dynamic fixed‐point format: a case study of Lanczos tridiagonalization." International Journal of Circuit Theory and Applications 44, no. 6 (2016): 1222-1262.
 
-# Project Showcase
+# Project Showcase:
 The file Fixed_dyn.cpp has all the arithmetic operations for 32-bit fixed-point format. 
+
+# Requirements:
+    The Compiler must be C++11 compliant.
+    The user should ideally be familar with the Q number format for fixed points.
+
  
