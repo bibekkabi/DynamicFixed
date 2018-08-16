@@ -24,3 +24,6 @@ The file Fixed_dyn.cpp contains the arithmetic operations (addition, substractio
 					FP32 fix_val;
 					FP32 Q_val;
 				}QFrm;
+				
+# Fixed Point Library Description
+FP32 is a custom type for unsigned long int (32 bit in size). FP32 fix_val is the fixed-point representation of any floating-point value. FP32 Q_val is the number of integer bits depending on the dynamic range of the data.   
