@@ -18,4 +18,9 @@ The file Fixed_dyn.cpp contains the arithmetic operations (addition, substractio
   - The user should ideally be familar with the [Q number format](https://en.wikipedia.org/wiki/Q_(number_format)) for fixed-points.
 
 # How to use
-This is a header file #include "Fixed_dyn.h". Just include it. 
+  - This is a header file #include "Fixed_dyn.h". Include it.
+  - Define a typedef struct:
+                      typedef struct {
+					FP32 fix_val;
+					FP32 Q_val;
+				}QFrm;
