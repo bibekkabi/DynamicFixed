@@ -17,4 +17,5 @@ The file Fixed_dyn.cpp contains the arithmetic operations (addition, substractio
   - The Compiler must be C++11 compliant.
   - The user should ideally be familar with the [Q number format](https://en.wikipedia.org/wiki/Q_(number_format)) for fixed-points.
 
- 
+# How to use
+This is a single-header include only library. Just #include "Fixed_dyn.h". 
