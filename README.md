@@ -11,7 +11,7 @@ It is a part of the published work:
 Pradhan, Tapan, Bibek Kabi, Ramanarayan Mohanty, and Aurobinda Routray. "Development of numerical linear algebra algorithms in dynamic fixed‐point format: a case study of Lanczos tridiagonalization." International Journal of Circuit Theory and Applications 44, no. 6 (2016): 1222-1262.
 
 # Project Showcase
-The file Fixed_dyn.cpp contains the arithmetic operations (addition, substraction, multiplication, division and square root) for 32-bit fixed-point format. 
+The file Fixed_dyn.cpp contains the arithmetic operations (addition, substraction, multiplication, division and square root) for 32-bit fixed-point format. It also includes methods to convert a value from floating-point to fixed-point representation and viceversa.
 
 # Requirements
   - The Compiler must be C++11 compliant.
